@@ -1,3 +1,5 @@
+![image](https://github.com/sydneeeyland/the-garrison-coffee/assets/58222812/6621e98f-7671-49a8-b71e-1bf7a07f36b0)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
